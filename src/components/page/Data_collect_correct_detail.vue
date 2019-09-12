@@ -5,7 +5,7 @@
       <el-col :span="24">
         <el-card shadow="hover" class="mgb20">
           <el-breadcrumb class="breadcrumb" separator="/">
-            <el-breadcrumb-item :to="{ path: '/data_collect_correct' }">数据修正</el-breadcrumb-item>
+            <el-breadcrumb-item :to="{ path: '/data_collect_correct' }">数据修正111</el-breadcrumb-item>
             <el-breadcrumb-item>数据修正详情</el-breadcrumb-item>
           </el-breadcrumb>
           <div class="tools">
