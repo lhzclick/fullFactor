@@ -1,0 +1,51 @@
+.warning-row {
+    background: #ECEEF4!important;
+  }
+  .tableBorderWrap{
+    border-left: 1px solid #ECEEF4!important;
+    border-right: 1px solid #ECEEF4!important;
+    cursor: pointer!important;
+  }
+  .tableHead{
+    background:#ECEEF4!important;
+    height:50px!important;
+    font-size:14px!important;
+    color:#000!important;
+    font-weight:bold!important;
+  }
+  .tableBody{
+    color:#000!important;
+    font-size:14px!important;
+  }
+  .downExcel{
+    margin-top: 10px;
+    float: right;
+  }
+  
+  .tableStock td,.tableStock th.is-leaf{
+    width: 300px;
+    /* padding: 0 30px; */
+    
+  }
+  .pagination{
+    float:right;
+    margin-top: 10px;
+  }
+  .titleR {
+    font-weight: bold;
+    font-size: 16px;
+  }
+  .tags-li-title{
+    max-width: 500px!important;
+  }
+  .mark{
+    /* background: #FF3399; */
+    background:#F79797!important;
+  }
+  .upload,.upload>div{
+    display: inline;
+
+  }
+  .loading{
+    color: #F79797
+  }
